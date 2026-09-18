@@ -1,0 +1,65 @@
+{
+  "manifestVersion": 1,
+  "collections": [
+    {
+      "id": "de-en-grundwortschatz-a1",
+      "file": "collections/de-en/grundwortschatz-a1.json",
+      "name": "Grundwortschatz Deutsch-Englisch",
+      "info": "Die 250 häufigsten Alltagswörter für den Einstieg – ideal als erste Collection.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "en-GB",
+      "level": "A1",
+      "topic": "Grundwortschatz",
+      "vocabularyCount": 250,
+      "formatVersion": 1
+    },
+    {
+      "id": "de-en-erweiterter-wortschatz-a2",
+      "file": "collections/de-en/erweiterter-wortschatz-a2.json",
+      "name": "Erweiterter Wortschatz Deutsch-Englisch",
+      "info": "164 weiterführende Vokabeln, die den Grundwortschatz sinnvoll ergänzen.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "en-GB",
+      "level": "A2",
+      "topic": "Erweiterter Wortschatz",
+      "vocabularyCount": 164,
+      "formatVersion": 1
+    },
+    {
+      "id": "de-fr-grundwortschatz-a1",
+      "file": "collections/de-fr/grundwortschatz-a1.json",
+      "name": "Grundwortschatz Deutsch-Französisch",
+      "info": "Die 250 häufigsten Alltagswörter für den Einstieg – ideal als erste Collection.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "fr",
+      "level": "A1",
+      "topic": "Grundwortschatz",
+      "vocabularyCount": 250,
+      "formatVersion": 1
+    },
+    {
+      "id": "de-it-grundwortschatz-a1",
+      "file": "collections/de-it/grundwortschatz-a1.json",
+      "name": "Grundwortschatz Deutsch-Italienisch",
+      "info": "Die 250 häufigsten Alltagswörter für den Einstieg – ideal als erste Collection.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "it",
+      "level": "A1",
+      "topic": "Grundwortschatz",
+      "vocabularyCount": 250,
+      "formatVersion": 1
+    },
+    {
+      "id": "de-nl-grundwortschatz-a1",
+      "file": "collections/de-nl/grundwortschatz-a1.json",
+      "name": "Grundwortschatz Deutsch-Niederländisch",
+      "info": "Die 250 häufigsten Alltagswörter für den Einstieg – ideal als erste Collection.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "nl",
+      "level": "A1",
+      "topic": "Grundwortschatz",
+      "vocabularyCount": 250,
+      "formatVersion": 1
+    }
+  ]
+}
