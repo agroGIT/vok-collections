@@ -1,6 +1,18 @@
 {
   "manifestVersion": 1,
   "collections": [
+      {
+      "id": "de-en-bunt-gemischt",
+      "file": "collections/de-en/bunt-gemischt.json",
+      "name": "Grundwortschatz diverse Themen",
+      "info": "Mit 5892 Einträgen eine riesige Basis-Collection querbeet durch alle Bereiche.",
+      "sourceLanguage": "de-DE",
+      "targetLanguage": "en-GB",
+      "level": "A2",
+      "topic": "Grundwortschatz",
+      "vocabularyCount": 5892,
+      "formatVersion": 1
+    },
     {
       "id": "de-en-grundwortschatz-a1",
       "file": "collections/de-en/grundwortschatz-a1.json",
